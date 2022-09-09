@@ -49,26 +49,26 @@ global.stg = 'https://t.me/XiaomiBOT'
 global.snh = 'wa.me/62857791505012'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085779150501'
-global.povo = '085779150501'
-global.pgopay = '085779150501'
-global.ppulsa = '085779150501'
+global.pdana = '083848128003'
+global.povo = '083848128003'
+global.pgopay = '6283160327945'
+global.ppulsa = ''
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/rangga123gg'
+global.psaweria = 'https://saweria.co/asepbotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857791505013'
-global.nomorown = '62857791505012'
-global.namebot = 'XiaomiBOT'
-global.nameown = 'HanzOfcⒸ︎'
+global.nomorbot = '6282252571052'
+global.nomorown = '6283160327945'
+global.namebot = '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕'
+global.nameown = '𝐑𝐈𝐃𝐇𝐎 𝐆𝐀𝐍𝐙Ⓒ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012'],
-  ['62857791505012', 'Owner', true]
+  ['6283160327945'],
+  ['6283160327945'],
+  ['6283160327945'],
+  ['6283160327945', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'XiaomiBOT' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di XiaomiBOT👋'
-global.wm3 = '☘︎ XiaomiBotz'
+global.wm = '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang di 𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕👋'
+global.wm3 = '☘︎ 𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'XiaomiBOTⒸ︎' 
+global.author = '𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕Ⓒ︎' 
 
 
 /*============== LOGO ==============*/
@@ -180,7 +180,7 @@ global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Cie mau nyolong ya'
-global.stickauth = `By XiaomiBOTⒸ︎`
+global.stickauth = `By 𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕`
 
 global.multiplier = 38 // The higher, The harder levelup
 
